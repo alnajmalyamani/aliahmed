@@ -1,5 +1,5 @@
 {"version_code":452646,"content":"
-<p>تحديث 9.10</p>
+<pتحديث 9.10</p>
 
 <li>التحديث لنسخة الماركت 2.16.310</li>
 <li>إضافة فيسات الواتس اب الجديدة</li>
@@ -33,5 +33,5 @@
 <li> Fixed GB Widget in some devices</li>
 <li> Other Fixes</li>
 
-","url":"https://alnajmalyamani.blogspot.com/2019/07/NWhatsApp.html.co"
+","url":"https://alnajmalyamani.blogspot.com/2019/07/NWhatsApp.html
 }
