@@ -18,20 +18,7 @@
 <li>إصلاحات اخرى</li>
 
 
-<li> New Base Updated to 2.16.310</li>
-<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
-<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
-<li> Added New Emojis (send Big Emojis) </li>
-<li> Added Doodle (Now add edit pics with emojis & text)</li>
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
-<li> Other Fixes</li>
 
-","url":"https://alnajmalyamani.blogspot.com/2019/07/NWhatsApp.html
+
+","url":"https://alnajmalni.blogspot.com/2019/07/NWhatsApp.html
 }
