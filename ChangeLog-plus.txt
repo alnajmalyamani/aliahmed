@@ -1,13 +1,1 @@
-{'ver1':'8', 'ver2':'40', 'ver3':'\n[Base] Update 2.19.291\n[Added] تحديث قاعدة 2.19.360
-اضافهخيار حذف الرسائل لدى الطرفين حتى بعد مرور عام
-اضافهاشعار عند مشاهدة الحالة
-اضافهاشعار عند تغيير الصورة الشخصية
-اضافهخيار لعرض الرسائل المرسلة من اي شخص في المجموعات
-اضافهخيار لعرض الرسائل المحذوفه في جهات الاتصال والمجموعات
-اضافهخيار اخفاء الرسائل المؤرشفة
-اضافهميزة التاج @ لمعرفة من ذكرك في المجموعات
-اضافهخيار لعرض الرسائل المرسلة لاي شخص في المجموعات
-اضافهزر تحميل الحالات من الخيارات مثلما كان سابقا
-اضافهالفيسات الجديدة للواتساب
-اضافهاختصار لخيار الخصوصية في الشاشة الرئيسية فوق الاضافات والخصائص (مثل GB)
-مزيدإصلاحات وتحسينات أخرى\n' , 'dli':'https://alnajmalyamani.blogspot.com/2019/12/aqwhatsplus.html'}
+{'ver1':'8', 'ver2':'40', 'ver3':'\n[Base] Update 2.19.291\n[Added] Instagram-like Store you can enable it from Home Screen >> Header\n[Added] Disable clicking on "WhatsApp"\n[Added] Hide Muted Status update\n[Added] Hide Viewed Status update\n[Added] Hide Recent Status update[Fixed] The Crash on Kitkat users\n' , 'dli':'https://alnajmalyamani.blogspot.com/2019/12/aqwhatsplus.html'}
